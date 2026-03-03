@@ -3,7 +3,7 @@
  * Plugin Name:     WooCommerce Delivery Slots by Kadence [WooCommerce Table Rate Shipping Pro]
  * Plugin URI:      https://iconicwp.com/products/woocommerce-delivery-slots/
  * Description:     Compatibility between WooCommerce Delivery Slots by Kadence and WooCommerce Table Rate Shipping Pro by PluginHive.
- * Author:          Kadence WP
+ * Author:          Kadence
  * Author URI:      https://www.kadencewp.com/
  * Text Domain:     iconic-woo-delivery-slots-compat-shipping-pro
  * Domain Path:     /languages
